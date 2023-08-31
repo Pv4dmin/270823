@@ -1,0 +1,15 @@
+F:\gb\270823\work3\obj\Debug\net6.0\work3.csproj.AssemblyReference.cache
+F:\gb\270823\work3\obj\Debug\net6.0\work3.GeneratedMSBuildEditorConfig.editorconfig
+F:\gb\270823\work3\obj\Debug\net6.0\work3.AssemblyInfoInputs.cache
+F:\gb\270823\work3\obj\Debug\net6.0\work3.AssemblyInfo.cs
+F:\gb\270823\work3\obj\Debug\net6.0\work3.csproj.CoreCompileInputs.cache
+F:\gb\270823\work3\bin\Debug\net6.0\work3.exe
+F:\gb\270823\work3\bin\Debug\net6.0\work3.deps.json
+F:\gb\270823\work3\bin\Debug\net6.0\work3.runtimeconfig.json
+F:\gb\270823\work3\bin\Debug\net6.0\work3.dll
+F:\gb\270823\work3\bin\Debug\net6.0\work3.pdb
+F:\gb\270823\work3\obj\Debug\net6.0\work3.dll
+F:\gb\270823\work3\obj\Debug\net6.0\refint\work3.dll
+F:\gb\270823\work3\obj\Debug\net6.0\work3.pdb
+F:\gb\270823\work3\obj\Debug\net6.0\work3.genruntimeconfig.cache
+F:\gb\270823\work3\obj\Debug\net6.0\ref\work3.dll
