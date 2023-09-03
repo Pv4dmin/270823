@@ -14,7 +14,7 @@ int NumOfDigits(int num)
         sum += (num % 10);
         num /= 10;
     }
-    return sum ;
+    return sum;
 }
 
 int number = InputNum("Введите число: ");
